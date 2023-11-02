@@ -1,0 +1,7 @@
+John Smith: A
+Mary Johnson: B
+Alex Rodriguez: C
+Emily Wong: A
+David Lee: B
+James Johnson: A
+Edwin Albert: B
